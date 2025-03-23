@@ -42,7 +42,7 @@ class _AppNavigationShellState extends State<AppNavigationShell> {
             label: 'Home',
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.favorite),
+            icon: Icon(Icons.star),
             label: 'Favorites',
           ),
         ],
